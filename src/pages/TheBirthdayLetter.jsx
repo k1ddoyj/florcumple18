@@ -60,7 +60,7 @@ function TheBirthdayLetter() {
             </div>
 
             <button className="btn" onClick={() => navigate("/")}>
-                ahí termino el regalo !
+                ahí terminó el regalo !
             </button>
 
             {popupImage && (

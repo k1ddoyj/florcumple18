@@ -21,7 +21,7 @@ function Home() {
           />
         </div>
         <button className="btn" onClick={() => navigate("/letter")}>
-          toca este botón si pensás que arturo es inteligente
+          tocá este botón si pensás que arturo es inteligente
         </button>
       </div>
     </div>
