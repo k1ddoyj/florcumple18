@@ -53,7 +53,7 @@ function TheBirthdayLetter() {
                     <img src="img/letter2.png" alt="letter" className="img-small"/>
                     <span className="btn-text">5sos</span>
                 </button>
-                <button className="img-button" onClick={() => openPopup("img/sad-letter.png")}>
+                <button className="img-button" onClick={() => openPopup("img/pito.jpeg")}>
                     <img src="img/letter2.png" alt="letter" className="img-small"/>
                     <span className="btn-text">sí</span>
                 </button>
